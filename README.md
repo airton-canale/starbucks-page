@@ -31,7 +31,7 @@
 <br>
 
 ## 🚀 Deploy
- -  starbucks.canale.dev
+ -  https://starbucks.canale.dev
 
  - This application was deployed with Github Pages 
 
